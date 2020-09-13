@@ -1,0 +1,13 @@
+C:\Users\Chest\source\repos\UsingProperties\bin\Debug\netcoreapp3.1\UsingProperties.exe
+C:\Users\Chest\source\repos\UsingProperties\bin\Debug\netcoreapp3.1\UsingProperties.deps.json
+C:\Users\Chest\source\repos\UsingProperties\bin\Debug\netcoreapp3.1\UsingProperties.runtimeconfig.json
+C:\Users\Chest\source\repos\UsingProperties\bin\Debug\netcoreapp3.1\UsingProperties.runtimeconfig.dev.json
+C:\Users\Chest\source\repos\UsingProperties\bin\Debug\netcoreapp3.1\UsingProperties.dll
+C:\Users\Chest\source\repos\UsingProperties\bin\Debug\netcoreapp3.1\UsingProperties.pdb
+C:\Users\Chest\source\repos\UsingProperties\obj\Debug\netcoreapp3.1\UsingProperties.csprojAssemblyReference.cache
+C:\Users\Chest\source\repos\UsingProperties\obj\Debug\netcoreapp3.1\UsingProperties.AssemblyInfoInputs.cache
+C:\Users\Chest\source\repos\UsingProperties\obj\Debug\netcoreapp3.1\UsingProperties.AssemblyInfo.cs
+C:\Users\Chest\source\repos\UsingProperties\obj\Debug\netcoreapp3.1\UsingProperties.csproj.CoreCompileInputs.cache
+C:\Users\Chest\source\repos\UsingProperties\obj\Debug\netcoreapp3.1\UsingProperties.dll
+C:\Users\Chest\source\repos\UsingProperties\obj\Debug\netcoreapp3.1\UsingProperties.pdb
+C:\Users\Chest\source\repos\UsingProperties\obj\Debug\netcoreapp3.1\UsingProperties.genruntimeconfig.cache
